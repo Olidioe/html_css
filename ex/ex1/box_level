@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>boxlevel</title>
+    <style>
+        h1{
+        
+            text-align: center;
+            background-color: violet;
+            height: 300px;
+            width: 300px;
+            border: 10px;
+            border-style: solid;
+            border-color: yellowgreen;
+            margin: auto;
+            outline: 2px;
+            outline-style: dotted;
+            outline-color: tomato;
+        
+        
+        }
+        a{
+            
+            border: 10px;
+            border-style: solid;
+            border-color: rgb(219, 5, 5);
+            padding: auto;
+        }
+
+        }
+    </style>
+</head>
+<body>
+
+    <h1>exemplos de caixas box-level</h1>
+<p>paragrafo tambem é um bnox level</p> 
+Lorem, ipsum dolor sit amet consectetur adipisicing elit. 
+    Numquam soluta, velit <a href="#"> links sao exemplosde caixas inline-level</a>molestiae 
+    cupiditate eos eligendi fuga? Aliquid 
+    quia sapiente hic eum earum delectus dolores placeat tenetur, error at 
+    harum mollitia. 
+
+
+</body>
+</html>

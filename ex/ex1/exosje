@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>selectores personalizados</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1 id="principal">criando sites com html e css</h1>
+    
+    <h1>aprendendo html</h1>
+
+    <h2 class="basico">html bàsico</h2>
+
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+            Labore consequuntur quas necessitatibus temporibus repellat 
+            eos aliquid reprehenderit iste aperiam molestiae omnis optio 
+            consectetur maxime voluptatum, cumque voluptate est quos. Doloremque.</p>
+
+    <h2 class="intermediario"> html intermediàrio</h2>
+
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+            Labore consequuntur quas necessitatibus temporibus repellat 
+            eos aliquid reprehenderit iste aperiam molestiae omnis optio 
+            consectetur maxime voluptatum, cumque voluptate est quos. Doloremque.</p>
+
+    <h2 class="avançado">html avancado</h2> 
+
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+            Labore consequuntur quas necessitatibus temporibus repellat 
+            eos aliquid reprehenderit iste aperiam molestiae omnis optio 
+            consectetur maxime voluptatum, cumque voluptate est quos. Doloremque.</p>   
+
+<h1>aprendendo css</h1>
+
+<h2 class="basico">css bàsico</h2>
+
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+        Labore consequuntur quas necessitatibus temporibus repellat 
+        eos aliquid reprehenderit iste aperiam molestiae omnis optio 
+        consectetur maxime voluptatum, cumque voluptate est quos. Doloremque.</p>
+
+<h2 class="intermediario">css intermediàrio</h2>
+
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+        Labore consequuntur quas necessitatibus temporibus repellat 
+        eos aliquid reprehenderit iste aperiam molestiae omnis optio 
+        consectetur maxime voluptatum, cumque voluptate est quos. Doloremque.</p>
+
+<h2 class="avançado">css avancado</h2>
+
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+        Labore consequuntur quas necessitatibus temporibus repellat 
+        eos aliquid reprehenderit iste aperiam molestiae omnis optio 
+        consectetur maxime voluptatum, cumque voluptate est quos. Doloremque.</p>
+
+        <span class="basico"> <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore modi facere, 
+            voluptate quos voluptatum debitis, consectetur itaque nesciunt nulla sunt 
+            laboriosam! Debitis sapiente deserunt aperiam numquam veritatis assumenda saepe 
+            rem.</p>
+        </span>
+
+</body>
+</html>

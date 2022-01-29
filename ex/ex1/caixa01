@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Grouping tags</title>
+
+<style>
+
+    body{
+        font-family: Arial, Helvetica, sans-serif;
+        background-color: rgb(177, 175, 174);
+        margin: 0px;
+    }
+
+    header{
+        background-color: white;
+        padding: 10px;
+        margin: 0px;
+    }
+
+    nav{
+        background-color: violet;
+        padding: 3px;
+    }
+
+    nav > a{
+        text-decoration: none;
+        color: white;
+        font-weight: bold;
+        margin-right: 20px;
+        margin-left: 40px;
+    }
+
+    nav > a:hover{
+        text-decoration: underline;
+    }
+
+    main{
+        background-color: rgb(179, 100, 100);
+        padding: 10px;
+        margin: 0px;
+        border-radius: 30px;
+    }
+
+    article{
+        background-color: white;
+        padding: 5px;
+        
+    }
+
+    article > aside{
+        background-color: yellow;
+        
+    }
+
+    footer{
+        background-color: yellowgreen;
+        color: blue;
+        text-align: center;
+        padding: 2px;
+        margin: 0px;
+    }
+
+
+
+
+</style>
+
+</head>
+<body>
+    <header>
+        <h1>KAYANDA</h1>
+        <nav>
+            <a href="#">links</a>
+            <a href="#">links</a>
+            <a href="#">links</a>
+            <a href="#">links</a>
+        </nav>
+    </header>
+
+    <main>
+        <section id="assuntos">
+            <p> Desporto politica tecnologia</p>
+
+        </section>
+
+        <section id="noticias">
+
+            <article>
+
+                <h2> Noticias sobre Angola </h2>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+                        Nisi omnis nesciunt quis corrupti aliquam voluptates excepturi 
+                        quae fuga inventore, praesentium perferendis unde exercitationem 
+                        delectus maxime, at ad repudiandae? Aliquid, recusandae.</p>
+
+                <aside>
+                    <p> artigo escrito por Kayanda </p>
+                </aside>
+
+            </article>
+
+            <article>
+
+            </article>
+        </section>
+
+    </main>
+
+    <footer>
+        <p>feito por Kayanda</p>
+    </footer>    
+</body>
+</html>

@@ -1,0 +1,33 @@
+@charset "UTF-8";
+
+
+header {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+figure{
+    margin-left: 0px;
+}
+
+figure.foto figcaption {
+
+    opacity: 0px;
+    position: absolute;
+    margin-top: 340px;
+
+
+    top: 0px;
+    background-color: rgba(0, 0, 0, 0.3);
+    color: white;
+    width: 20%;
+    height: 50%;
+    padding: 85px;
+    box-sizing: border-box;
+    
+
+    }
+    
+
+    
